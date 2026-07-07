@@ -42,6 +42,3 @@ All spatial outputs are saved within a feature dataset named `raw_inputs`.
 * **`Parcels_Test_{Scope}_{RunID}`:** The test feature class generated when "Test Mode" is checked.
 * **`ExportParcels_Log_{run_id}.txt`:** A text file containing the log messages and execution timestamps for the run.
 * **`parcel_export_progress.json`:** A checkpoint JSON file tracking which counties have been successfully downloaded.
-
-## Credits
-* **Project Context:** Developed as part of the LandInventory Pipeline data acquisition group.
