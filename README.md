@@ -2,7 +2,7 @@ Export Parcels Toolbox Technical Reference Manual
 
 1. Tool Overview and Purpose
 
-The ExportParcels tool serves as the high-throughput data acquisition engine for the LandInventory Pipeline. Its primary function is the automated extraction of Ohio parcel data from the GeoOhio ArcGIS Online Parcel Service into a localized, high-performance environment. As the canonical first step in the pipeline, it ensures data integrity by populating the raw_inputs feature dataset with standardized records, providing a consistent baseline for all subsequent spatial analytics and downstream modeling.
+The ExportParcels tool serves as the high-throughput data acquisition engine for obtaining parcel data for land use analysis and modeling. Its primary function is the automated extraction of Ohio parcel data from the GeoOhio ArcGIS Online Parcel Service into a localized, high-performance environment. As the canonical first step in the pipeline, it ensures data integrity by populating the raw_inputs feature dataset with standardized records, providing a consistent baseline for all subsequent spatial analytics and downstream modeling.
 
 2. Technical Specifications and Requirements
 
